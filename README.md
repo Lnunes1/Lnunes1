@@ -29,4 +29,4 @@ Olá!! Eu sou o Lucas Nunes 👋
 </div>
   
   
-  ![Snake animation](https://github.com/LucasNunes/Lnunes1/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lucasnunes/Lnunes1/blob/output/github-contribution-grid-snake.svg)

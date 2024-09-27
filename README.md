@@ -15,7 +15,6 @@ Olá!! Eu sou o Lucas Nunes 👋
   <img align="center" alt="Lucas-Spring" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Lucas-JavaScript" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lucas-angularjs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="right" alt="Lucas-gif" height="150" width="300" src="https://media.giphy.com/media/26iM9qklSoVH5TzurZ/giphy.gif">
 </div>
   
   
